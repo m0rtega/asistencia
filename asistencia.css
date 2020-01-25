@@ -1,0 +1,63 @@
+html{
+	background-color:rgb(184, 240, 243);
+}
+
+#confirmar {
+	width: 100px;
+	height: 50px;
+}
+
+#tabla {
+	margin: auto;
+	margin-top: 50px;
+}
+
+#tabla tr{
+	margin: 0;
+}
+
+#tabla th{
+	margin: 0;
+}
+
+#formulario{
+	font-family: calibri
+	width: 285px;
+	height: 350px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-top: 2px;
+	margin-right: 0px;
+	background-color: rgb(0,0,0, 0.2);
+}
+
+#info{
+	padding-top: 2px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	margin-left:0px;
+	width: 370px;	
+	height: 350px;
+	background-color: rgb(249,249,249, 0.8);
+}
+
+#row{
+display:table-row;
+}
+
+#row label{
+text-align:right;
+display: table-cell;
+padding: 3px;
+}
+
+#row input{
+display: table-cell;
+padding: 3px;
+}
+
+#form{
+display: table;
+}
