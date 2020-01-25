@@ -4,7 +4,7 @@
   "description": "This is the information regarding this webpage.",
   "main": "asistencia.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"    
+    "deploy": "gh-pages -d asistencia"    
   },
   "author": "",
   "license": "ISC",
