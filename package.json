@@ -1,0 +1,15 @@
+{
+  "name": "asistencia",
+  "version": "1.0.0",
+  "description": "This is the information regarding this webpage.",
+  "main": "asistencia.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"    
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mec4no.github.io/asistencia",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
